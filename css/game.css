@@ -1,0 +1,33 @@
+html, body, ul, li {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  width: 762;
+  margin: 0 auto;
+
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  overflow: hidden;
+  height: 100%;
+  background-color: #2E4053;
+}
+
+h2 {
+  font-family: 'Overpass', sans-serif;
+  font-size: 120%;
+  color: whitesmoke;
+}
+ol {
+  font-family: 'Overpass', sans-serif;
+  font-size: 120%;
+  color: whitesmoke;
+}   
